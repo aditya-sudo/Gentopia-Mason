@@ -11,3 +11,4 @@ from .vanilla-ziyu import *
 from .scholar-ziyu import *
 from .jarvis import *
 from .scholar-agent import *
+from .wellness-agent import *
